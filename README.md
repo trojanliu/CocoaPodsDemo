@@ -1,4 +1,4 @@
-CocoaPodsDemo1
-==============
+CocoaPodsDemo
+=============
 
-CocoaPodsDemo1
+CocoaPodsDemo
